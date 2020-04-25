@@ -20,4 +20,6 @@ This line will update by pull command from vs
 
 Line No. 21 = GitHub: First Fetch and Check This line is available to your code and then sync to update your local repo in VS
 
+Line No. 23 = Github: Both Developer Commit Their Code to Check and Line No. 11 Removed By VS
+
 Line No. 23 Added From VS
