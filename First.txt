@@ -4,7 +4,7 @@ sending it for testing
 
 GitHub: 5th Line Change
 
-VS2019: 6th Line Change
+This line removed by GitHub to check line 21 processing VS2019: 6th Line Change
 
 GitHub: 9th Line Change
 
@@ -17,3 +17,5 @@ VS2019: 13th Line Change
 Above change form vs but this line is changed brom git
 
 This line will update by pull command from vs
+
+Line No. 21 = GitHub: First Fetch and Check This line is available to your code and then sync to update your local repo in VS
